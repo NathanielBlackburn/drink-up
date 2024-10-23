@@ -1,0 +1,199 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "shouldTranslate" : false
+    },
+    "a name" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nazwę drinka"
+          }
+        }
+      }
+    },
+    "an ingredient" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nazwę składnika"
+          }
+        }
+      }
+    },
+    "Category" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategoria"
+          }
+        }
+      }
+    },
+    "Enter %@" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wpisz %@"
+          }
+        }
+      }
+    },
+    "Glass" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Szklanka"
+          }
+        }
+      }
+    },
+    "ingredient" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "składniku"
+          }
+        }
+      }
+    },
+    "Ingredients" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Składniki"
+          }
+        }
+      }
+    },
+    "Loading, please wait..." : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wczytuję, zaczekaj chwilę…"
+          }
+        }
+      }
+    },
+    "Malformed URL, cannot process your request." : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nieprawidłowy URL, nie można wykonać zapytania."
+          }
+        }
+      }
+    },
+    "name" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nazwie"
+          }
+        }
+      }
+    },
+    "No items to show." : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brak elementów do wyświetlenia."
+          }
+        }
+      }
+    },
+    "Not found" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie znaleziono"
+          }
+        }
+      }
+    },
+    "Search by %@" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyszukaj po %@"
+          }
+        }
+      }
+    },
+    "Show non-alcoholic only" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokaż tylko bezalkoholowe"
+          }
+        }
+      }
+    },
+    "Sorry, no items found." : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niestety, brak wyników."
+          }
+        }
+      }
+    },
+    "There was a problem processing your request. Please check your Internet connection." : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wystąpił błąd podczas pobierania danych. Sprawdź połączenie internetowe."
+          }
+        }
+      }
+    },
+    "Try again" : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spróbuj ponownie"
+          }
+        }
+      }
+    },
+    "Try another search term." : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spróbuj zmienić kryteria wyszukiwania."
+          }
+        }
+      }
+    },
+    "Use the search bar above." : {
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Użyj wyszukiwarki powyżej."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

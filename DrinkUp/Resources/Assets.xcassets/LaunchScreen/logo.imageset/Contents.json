@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "launch_drink_up.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

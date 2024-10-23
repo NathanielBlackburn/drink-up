@@ -1,0 +1,34 @@
+{
+  "configurations" : [
+    {
+      "id" : "F5F9F647-4BF9-4DD4-AD9C-9DCAB89C4B34",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "commandLineArgumentEntries" : [
+      {
+        "argument" : "-isUnitTesting YES"
+      }
+    ],
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:DrinkUp.xcodeproj",
+      "identifier" : "DE8B27E02CC6DDC5009B94E1",
+      "name" : "DrinkUp"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : false,
+      "target" : {
+        "containerPath" : "container:DrinkUp.xcodeproj",
+        "identifier" : "DE1383242CC6E2B0005D51A9",
+        "name" : "DrinkUpTests"
+      }
+    }
+  ],
+  "version" : 1
+}

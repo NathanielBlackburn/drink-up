@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23094" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Y6W-OH-hqX">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23084"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController id="Y6W-OH-hqX" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gradient" translatesAutoresizingMaskIntoConstraints="NO" id="g0x-QI-RUe" userLabel="bg">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="xJF-ut-4by" userLabel="logo">
+                                <rect key="frame" x="49" y="278.66666666666663" width="295" height="294.66666666666663"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="xJF-ut-4by" secondAttribute="height" multiplier="1:1" id="DPh-DX-EpX"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="175-Uy-B7c"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="xJF-ut-4by" firstAttribute="width" secondItem="5EZ-qb-Rvc" secondAttribute="width" multiplier="0.75" id="M9M-m1-eV8"/>
+                            <constraint firstAttribute="bottom" secondItem="g0x-QI-RUe" secondAttribute="bottom" id="QM8-rp-qjO"/>
+                            <constraint firstAttribute="trailing" secondItem="g0x-QI-RUe" secondAttribute="trailing" id="aeD-YY-amY"/>
+                            <constraint firstItem="g0x-QI-RUe" firstAttribute="top" secondItem="5EZ-qb-Rvc" secondAttribute="top" id="l8n-SM-TZv"/>
+                            <constraint firstItem="xJF-ut-4by" firstAttribute="centerY" secondItem="5EZ-qb-Rvc" secondAttribute="centerY" id="pcs-Pj-wBf"/>
+                            <constraint firstItem="g0x-QI-RUe" firstAttribute="leading" secondItem="5EZ-qb-Rvc" secondAttribute="leading" id="qkC-Ni-ljn"/>
+                            <constraint firstItem="xJF-ut-4by" firstAttribute="centerX" secondItem="175-Uy-B7c" secondAttribute="centerX" id="rtg-13-HLc"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="130.53435114503816" y="-28.169014084507044"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="gradient" width="1" height="1320"/>
+        <image name="logo" width="1024" height="1024"/>
+    </resources>
+</document>
